@@ -6,6 +6,3 @@
 $ cat /etc/profile.d/enablepython33.sh
 #!/bin/bash
 source scl_source enable python33
-
-
-https://developer.cisco.com/certification/exam-topic-associate/
