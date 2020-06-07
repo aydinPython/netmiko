@@ -66,7 +66,7 @@ def sendCommandDeviceGetLog(device, command, deviceName):
 
     return [file_name, forLogResult]
 
-# Her bir devicemize bir bir baglanmaq ucun for qurulur
+# Her bir devicemize bir bir baglanmaq ucun loop qurulur
 
 for device in all_devices:
 
